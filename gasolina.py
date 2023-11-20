@@ -33,7 +33,7 @@ base_dados.info()
 """
 
 plt.figure(figsize = (11,5))
-plt.grid(which='both', alpha=0.3)
+plt.grid(which='both', alpha=0.5)
 plt.title('')
 
 plt.bar(
